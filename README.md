@@ -2,7 +2,7 @@
 Unraveling the Patterns of Car Accidents in Seville: A Comprehensive Analysis
 
 ## Overview
-This Mid Bootcamp Project seeks to identify patterns on Car Crashes in the Andalusian city of Seville, Spain for the last 20 years (2002 - . This patterns will help the city council and relevant public bodies to make decisions to avoid possible future accidents, as well as provide interesting and necessary information to insurance companies that want to make use of this information.
+This Mid Bootcamp Project seeks to identify patterns on Car Crashes in the Andalusian city of Seville, Spain for the last 20 years (2002 - 2022). This patterns will help the city council and relevant public bodies to make decisions to avoid possible future accidents, as well as provide interesting and necessary information to insurance companies that want to make use of this information.
 
 ## Procedure
 ### 1. Obtaining the Data
